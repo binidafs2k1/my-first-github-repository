@@ -1,4 +1,5 @@
-Some chang in local repo
-This is a test file.
+Some change from remote repo ...
+Bla bla bla bla
+~~~~
 Adding more content to the test file.
 End of the test file.
